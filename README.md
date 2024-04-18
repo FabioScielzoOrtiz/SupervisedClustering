@@ -1,1 +1,1 @@
-This is a package with ML utils.
+This is a package to apply clustering algorithms in supervised learning problems.
