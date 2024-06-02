@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: SupervisedClustering
-Version: 0.0.1
+Version: 0.0.3
 Summary: This is a package to apply clustering algorithms in supervised learning problems.
 Home-page: https://github.com/FabioScielzoOrtiz/SupervisedClustering_Package
 Author: Fabio Scielzo Ortiz

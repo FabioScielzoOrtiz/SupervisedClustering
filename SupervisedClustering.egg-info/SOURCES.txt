@@ -2,7 +2,7 @@ LICENSE
 README.md
 setup.py
 SupervisedClustering/__init__.py
-SupervisedClustering/test.py
+SupervisedClustering/models.py
 SupervisedClustering.egg-info/PKG-INFO
 SupervisedClustering.egg-info/SOURCES.txt
 SupervisedClustering.egg-info/dependency_links.txt
