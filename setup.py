@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="SupervisedClustering",
-    version="0.0.3",
+    version="0.0.5",
     author="Fabio Scielzo Ortiz",
     author_email="fabioscielzo98@gmail.com",
-    description="This is a package to apply clustering algorithms in supervised learning problems.",
+    description="SupervisedClustering is a Python package to apply clustering algorithms in supervised learning problems.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/FabioScielzoOrtiz/SupervisedClustering_Package",  # add your project URL here

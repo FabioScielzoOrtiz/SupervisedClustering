@@ -1,1 +1,1 @@
-This is a package to apply clustering algorithms in supervised learning problems.
+`SupervisedClustering` is a `Python` package to apply clustering algorithms in supervised learning problems.

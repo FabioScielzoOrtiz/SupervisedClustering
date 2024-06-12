@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: SupervisedClustering
-Version: 0.0.3
-Summary: This is a package to apply clustering algorithms in supervised learning problems.
+Version: 0.0.5
+Summary: SupervisedClustering is a Python package to apply clustering algorithms in supervised learning problems.
 Home-page: https://github.com/FabioScielzoOrtiz/SupervisedClustering_Package
 Author: Fabio Scielzo Ortiz
 Author-email: fabioscielzo98@gmail.com
@@ -14,4 +14,4 @@ License-File: LICENSE
 Requires-Dist: pandas
 Requires-Dist: numpy
 
-This is a package to apply clustering algorithms in supervised learning problems.
+`SupervisedClustering` is a `Python` package to apply clustering algorithms in supervised learning problems.
